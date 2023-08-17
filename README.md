@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Github&fontSize=70" />
 ### Hi there 👋
 
 <!--
