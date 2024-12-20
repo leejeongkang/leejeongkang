@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello World&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld&fontSize=70" />
 ### Hi there 👋
 
 <!--
